@@ -7,7 +7,7 @@
 TypeScript's type definitions for [Ramda](https://github.com/ramda/ramda)
 
 ## Why
-This only has the dist folder removed from gitignore.
+This clone only has the dist folder removed from gitignore.
 
 This is a hack to try get [lerna](https://github.com/lerna/lerna) and typescripts module resolution to play nice with ramda's types.
 
