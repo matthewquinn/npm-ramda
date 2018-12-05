@@ -6,6 +6,14 @@
 
 TypeScript's type definitions for [Ramda](https://github.com/ramda/ramda)
 
+## Why
+This only has the dist folder removed from gitignore.
+
+This is a hack to try get [lerna](https://github.com/lerna/lerna) and typescripts module resolution to play nice with ramda's types.
+
+There is probably a better method to solving this problem but I haven't found it yet. I don't recommend using this clone.
+
+
 ## Status
 
 Typing compatible with `ramda@0.25.0` and `typescript@~2.9.2` (strictFunctionTypes: false)
